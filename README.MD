@@ -1,0 +1,1 @@
+This current project will be a webpage showcasing various recipes. I will have demonstrated I know basic HTML concepts, such as headings, images, lists, and so on.
