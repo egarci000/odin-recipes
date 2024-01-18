@@ -1,0 +1,47 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+* ul {
+  list-style: none;
+}
+
+#page-heading {
+  font-size: 2em;
+}
+
+.banner-image-container {
+  height: 300px;
+  width: 100%;
+}
+
+#heading-image, #heading-image-direwolf {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading-image {
+  height: auto;
+  width: 50%;
+}
+
+#heading-image-direwolf {
+  width: 25%;
+  height: auto;
+}
+
+.normal-heading {
+  font-size: 1.5em;
+}
+
+.unordered-list {
+  padding-right: 45px;
+}
+
+
